@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "Fav your doggos",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "DoggoGram",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "DoggoGram",
+  "start_url": "/",
+  "theme_color": "#ff6347",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://cdn.glitch.me/889c9caa-3872-479a-ba09-7b6d48657f6d%2Fandroid-chrome-512x512.png?v=1633634668528",
+      "sizes": "512x512",
+      "type": "image/png" 
+    }
+  ]
+}
